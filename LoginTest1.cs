@@ -1,7 +1,8 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using SipTestProject.Pages;
 
-namespace SipTestProject.Pages
+namespace SipTestProject
 {
     public class LoginTest1
     {

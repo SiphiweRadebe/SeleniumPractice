@@ -4,5 +4,6 @@
   <Parameter name="Login_url" value="https://admlucid.com/Identity/Account/Login"/>	
   <Parameter name = "User" value="test2@admlucid.com"/>"
   <Parameter name="Password" value="p8FrK4pE!g.ryKs"/>
-  </TestRunParameters>
+	<Parameter name="golf_url" value="https://admlucid.com/Golf"/>
+</TestRunParameters>
 </RunSettings>	
